@@ -35,11 +35,13 @@ body {
   background-image: url(img/dream-bg.png);
   background-position: right;
   background-repeat: no-repeat;
+  background-color: #26354a;
 }
 .middle {
   background-image: url(img/exp-bg.png);
   background-position: left;
   background-repeat: no-repeat;
+  background-color: #26354a;
 }
 
 .lowerwitdh {
@@ -59,4 +61,20 @@ body {
   border-left: 7px solid;
   border-image: linear-gradient(blue, red);
   border-image-slice: 1;
+}
+.lower {
+  background-image: url(img/top-banner.png);
+  background-repeat: no-repeat;
+}
+footer p {
+  text-align: center;
+}
+.kk {
+  color: aliceblue;
+}
+.jj {
+  color: aqua;
+}
+.kj {
+  color: white;
 }
